@@ -1,0 +1,52 @@
+<templateSet group="SASS">
+  <template name="fc" value="/// $Description$&#10;///&#10;///&#10;/// @argument $Argument$&#10;///&#10;/// @return $return$&#10;///&#10;/// @example $example$&#10;///&#10;/// @access $access$&#10;$END$" description="Documentation Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="Description" expression="" defaultValue="Write a Description" alwaysStopAt="true" />
+    <variable name="Argument" expression="" defaultValue="{type (subtype)}, {type (subtype)" alwaysStopAt="true" />
+    <variable name="return" expression="spaceSeparated(String, Listm )" defaultValue="Variable" alwaysStopAt="false" />
+    <variable name="example" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="access" expression="spaceSeparated(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@mixin" value="@mixin $MixinName$ ($Arguments$) {&#10;    $END$&#10;}" description="Defines a mixin" toReformat="false" toShortenFQNames="true">
+    <variable name="MixinName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Arguments" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="%mixin" value="%$MixinName$ $arguments${&#10;    $body$&#10;}$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="MixinName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arguments" expression="" defaultValue="($arguments)" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@function" value="@function $MixinName$ ($Arguments$) {&#10;    $END$&#10;}" description="Defines a function" toReformat="false" toShortenFQNames="true">
+    <variable name="MixinName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Arguments" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@extend" value="@extend $className$;&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="@require" value="@require $file$;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="file" expression="" defaultValue="filename" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="c" value="/// $variable$&#10;$END$" shortcut="SPACE" description="Short Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="Comment" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
