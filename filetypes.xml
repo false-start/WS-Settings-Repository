@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".stylelintrc" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
