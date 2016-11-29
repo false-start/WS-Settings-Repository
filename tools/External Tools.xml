@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Go Get" showInMainMenu="true" showInEditor="true" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/go/bin/go" />
+      <option name="PARAMETERS" value="get ." />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$/server" />
+    </exec>
+  </tool>
+  <tool name="Go Install" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/go/bin/go" />
+      <option name="PARAMETERS" value="install ." />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$/server" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,6 +1,5 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="GO" value="/usr/local/go/bin" />
-    <macro name="GOPATH" value="/Users/gburnes/Code/sound-redux" />
+    <macro name="Projectpath" value="/Users/gburnes/Code/sound-redux" />
   </component>
 </application>
