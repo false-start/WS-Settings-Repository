@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../Scripts/styles/SLDS/Components/Scratch.html - [actiongrid]'" />
     <option name="defaultScopeName" value="File '.../Scripts/styles/SLDS/Components/Scratch.html - [actiongrid]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../Scripts/styles/SLDS/Components/Scratch.html - [actiongrid]'" />
   </component>
 </application>
