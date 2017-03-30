@@ -1,21 +1,1730 @@
 <application>
   <component name="libraryTable">
-    <library name="123" type="javaScript">
+    <library name="react" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$USER_HOME$/DefinitelyTyped/types/react/index.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react.d.ts"/>
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/DefinitelyTyped/types/react/index.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react.d.ts"/>
       </CLASSES>
-      <SOURCES />
+      <SOURCES/>
+    </library>
+    <library name="react-addons-create-fragment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-create-fragment.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-create-fragment.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-css-transition-group" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-css-transition-group.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-css-transition-group.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-linked-state-mixin" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-linked-state-mixin.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-linked-state-mixin.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-perf" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-perf.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-perf.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-pure-render-mixin" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-pure-render-mixin.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-pure-render-mixin.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-shallow-compare" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-shallow-compare.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-shallow-compare.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-test-utils" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-test-utils.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-test-utils.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-transition-group" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-transition-group.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-transition-group.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-addons-update" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-update.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-addons-update.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-autosuggest" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-autosuggest.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-autosuggest.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-big-calendar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-big-calendar.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-big-calendar.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-body-classname" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-body-classname.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-body-classname.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-bootstrap-date-picker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap-date-picker.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap-date-picker.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-bootstrap-daterangepicker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap-daterangepicker.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap-daterangepicker.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-bootstrap-table" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap-table.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bootstrap-table.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-breadcrumbs" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-breadcrumbs.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-breadcrumbs.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-bytesize-icons" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bytesize-icons.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-bytesize-icons.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-calendar-timeline" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-calendar-timeline.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-calendar-timeline.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-codemirror" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-codemirror.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-codemirror.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-color" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-color.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-color.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-copy-to-clipboard" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-copy-to-clipboard.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-copy-to-clipboard.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-cropper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-cropper.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-cropper.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-css-modules" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-css-modules.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-css-modules.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-css-transition-replace" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-css-transition-replace.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-css-transition-replace.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-custom-scrollbars" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-custom-scrollbars.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-custom-scrollbars.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-data-grid" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-data-grid.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-data-grid.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-datagrid" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-datagrid.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-datagrid.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-datepicker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-datepicker.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-datepicker.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-daterange-picker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-daterange-picker.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-daterange-picker.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-dates" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dates.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dates.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-day-picker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-day-picker.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-day-picker.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-dnd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dnd.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dnd.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-dnd-html5-backend" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dnd-html5-backend.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dnd-html5-backend.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dom.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dom.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-dropzone" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dropzone.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-dropzone.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-easy-chart" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-easy-chart.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-easy-chart.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-event-listener" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-event-listener.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-event-listener.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-fa" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-fa.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-fa.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-facebook-login" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-facebook-login.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-facebook-login.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-file-input" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-file-input.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-file-input.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-file-reader-input" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-file-reader-input.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-file-reader-input.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-flex" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-flex.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-flex.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-flexr" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-flexr.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-flexr.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-fontawesome" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-fontawesome.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-fontawesome.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-ga" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-ga.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-ga.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-gravatar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-gravatar.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-gravatar.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-helmet" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-helmet.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-helmet.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-highlight-words" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-highlight-words.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-highlight-words.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-highlighter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-highlighter.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-highlighter.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-holder" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-holder.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-holder.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-hot-loader" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-hot-loader.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-hot-loader.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-i18next" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-i18next.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-i18next.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-icon-base" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-icon-base.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-icon-base.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-icons" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-icons.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-icons.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-imageloader" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-imageloader.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-imageloader.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-infinite" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-infinite.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-infinite.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-input-calendar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-input-calendar.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-input-calendar.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-input-mask" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-input-mask.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-input-mask.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-intl" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-intl.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-intl.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-intl-redux" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-intl-redux.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-intl-redux.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-is-deprecated" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-is-deprecated.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-is-deprecated.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-joyride" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-joyride.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-joyride.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-json-pretty" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-json-pretty.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-json-pretty.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-json-tree" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-json-tree.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-json-tree.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-jsonschema-form" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-jsonschema-form.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-jsonschema-form.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-leaflet" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-leaflet.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-leaflet.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-maskedinput" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-maskedinput.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-maskedinput.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-mdl" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-mdl.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-mdl.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-measure" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-measure.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-measure.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-mixin" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-mixin.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-mixin.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-modal" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-modal.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-modal.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-motion" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-motion.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-motion.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-motion-slider" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-motion-slider.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-motion-slider.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native-datepicker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-datepicker.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-datepicker.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native-fs" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-fs.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-fs.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native-google-analytics-bridge" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-google-analytics-bridge.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-google-analytics-bridge.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native-orientation" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-orientation.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-orientation.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native-scrollable-tab-view" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-scrollable-tab-view.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-scrollable-tab-view.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native-sortable-list" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-sortable-list.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-sortable-list.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-native-swiper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-swiper.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-native-swiper.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-notification-system" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-notification-system.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-notification-system.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-notification-system-redux" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-notification-system-redux.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-notification-system-redux.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-onclickoutside" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-onclickoutside.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-onclickoutside.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-onsenui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-onsenui.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-onsenui.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-overlays" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-overlays.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-overlays.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-paginate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-paginate.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-paginate.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-portal" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-portal.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-portal.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-props-decorators" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-props-decorators.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-props-decorators.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-recaptcha" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-recaptcha.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-recaptcha.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-redux" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-redux.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-redux.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-redux-i18n" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-redux-i18n.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-redux-i18n.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-redux-toastr" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-redux-toastr.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-redux-toastr.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-relay" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-relay.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-relay.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-responsive" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-responsive.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-responsive.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-router" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-router-bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-bootstrap.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-bootstrap.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-router-config" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-config.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-config.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-router-dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-dom.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-dom.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-router-redux" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-redux.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-router-redux.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-scroll" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-scroll.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-scroll.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-scrollbar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-scrollbar.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-scrollbar.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-select" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-select.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-select.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-side-effect" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-side-effect.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-side-effect.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-sidebar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-sidebar.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-sidebar.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-slick" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-slick.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-slick.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-smooth-scrollbar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-smooth-scrollbar.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-smooth-scrollbar.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-sortable-hoc" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-sortable-hoc.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-sortable-hoc.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-spinkit" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-spinkit.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-spinkit.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-split-pane" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-split-pane.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-split-pane.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-sticky" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-sticky.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-sticky.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-svg-pan-zoom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-svg-pan-zoom.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-svg-pan-zoom.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-swf" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-swf.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-swf.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-swipeable" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-swipeable.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-swipeable.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-swipeable-views" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-swipeable-views.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-swipeable-views.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-syntax-highlighter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-syntax-highlighter.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-syntax-highlighter.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-tabs" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tabs.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tabs.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-tagcloud" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tagcloud.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tagcloud.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-tap-event-plugin" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tap-event-plugin.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tap-event-plugin.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-test-renderer" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-test-renderer.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-test-renderer.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-tether" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tether.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-tether.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-textarea-autosize" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-textarea-autosize.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-textarea-autosize.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-toggle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-toggle.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-toggle.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-user-tour" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-user-tour.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-user-tour.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-virtualized" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-virtualized.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-virtualized.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="react-widgets" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-widgets.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/react-widgets.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="reactcss" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/reactcss.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/reactcss.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="reactstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/reactstrap.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/reactstrap.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-action" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-action.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-action.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-action-utils" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-action-utils.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-action-utils.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-actions" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-actions.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-actions.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-auth-wrapper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-auth-wrapper.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-auth-wrapper.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-batched-actions" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-batched-actions.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-batched-actions.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-bootstrap.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-bootstrap.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-debounced" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-debounced.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-debounced.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-devtools" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-devtools.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-devtools.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-devtools-dock-monitor" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-devtools-dock-monitor.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-devtools-dock-monitor.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-devtools-log-monitor" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-devtools-log-monitor.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-devtools-log-monitor.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-form" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-form.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-form.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-immutable" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-immutable.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-immutable.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-immutable-state-invariant" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-immutable-state-invariant.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-immutable-state-invariant.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-localstorage" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-localstorage.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-localstorage.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-localstorage-debounce" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-localstorage-debounce.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-localstorage-debounce.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-localstorage-filter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-localstorage-filter.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-localstorage-filter.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-logger" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-logger.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-logger.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-mock-store" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-mock-store.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-mock-store.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-optimistic-ui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-optimistic-ui.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-optimistic-ui.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-persist-transform-encrypt" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-persist-transform-encrypt.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-persist-transform-encrypt.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-persist-transform-filter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-persist-transform-filter.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-persist-transform-filter.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-promise" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-promise.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-promise.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-promise-middleware" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-promise-middleware.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-promise-middleware.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-recycle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-recycle.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-recycle.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-router" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-router.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-router.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="redux-storage" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-storage.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-storage.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
     </library>
     <library name="redux-ui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-ui.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-ui.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-ui.d.ts"/>
       </CLASSES>
-      <SOURCES />
+      <SOURCES/>
     </library>
-  </component>
 </application>
