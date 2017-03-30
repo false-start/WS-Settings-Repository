@@ -1,5 +1,60 @@
 <application>
   <component name="libraryTable">
+    <library name="falcor" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="falcor-express" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-express.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-express.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="falcor-http-datasource" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-http-datasource.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-http-datasource.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="falcor-json-graph" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-json-graph.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-json-graph.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
+    <library name="falcor-router" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-router.d.ts"/>
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/falcor-router.d.ts"/>
+      </CLASSES>
+      <SOURCES/>
+    </library>
     <library name="react" type="javaScript">
       <properties>
         <sourceFilesUrls>
