@@ -1,13 +1,19 @@
 <application>
   <component name="libraryTable">
-    <library name="types/react-DefinitelyTyped" type="javaScript">
+    <library name="123" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" />
+          <item url="file://$USER_HOME$/DefinitelyTyped/types/react/index.d.ts" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" />
+        <root url="file://$USER_HOME$/DefinitelyTyped/types/react/index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="redux-ui" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/exLibs/redux-ui.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
