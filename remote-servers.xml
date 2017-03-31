@@ -1,0 +1,17 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/Whole Foods/Docker" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
