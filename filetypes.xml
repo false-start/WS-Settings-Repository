@@ -3,14 +3,14 @@
     <extensionMap>
       <mapping pattern=".zshenv" type="Bash" />
       <mapping ext="page" type="HTML" />
-      <mapping pattern="scss" type="PLAIN_TEXT" />
+      <mapping ext="template" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="fixpermissions" type="PLAIN_TEXT" />
+      <mapping pattern="scss" type="PLAIN_TEXT" />
       <mapping ext="resource" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="nope" type="SCSS" />
     </extensionMap>
   </component>
