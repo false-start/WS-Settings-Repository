@@ -54,9 +54,13 @@
           <option name="url" value="https://github.com/GetStream/stream-react-example" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:wfmdigitalweb/365.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code" />
+    <option name="cloneParentDir" value="$USER_HOME$/WFM" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
