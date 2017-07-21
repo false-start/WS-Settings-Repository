@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile_365" type="Dockerfile" />
       <mapping pattern="Dockerfile-Dev" type="Dockerfile" />
       <mapping ext="page" type="HTML" />
       <mapping ext="template" type="JSON" />
@@ -8,6 +9,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="test 1" type="PLAIN_TEXT" />
       <mapping pattern=".lgtm" type="PLAIN_TEXT" />
+      <mapping pattern="Docker_365" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern=".apiQA" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
