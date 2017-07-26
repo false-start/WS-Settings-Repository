@@ -6,6 +6,7 @@
       <mapping ext="page" type="HTML" />
       <mapping ext="template" type="JSON" />
       <mapping pattern="scss" type="PLAIN_TEXT" />
+      <mapping pattern="registrationTablet" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="test 1" type="PLAIN_TEXT" />
       <mapping pattern=".lgtm" type="PLAIN_TEXT" />
