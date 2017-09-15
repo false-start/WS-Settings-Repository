@@ -5,6 +5,11 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\btoto-remove" />
+    <pattern icon="important" pattern="\bremove\b.*" />
+    <pattern icon="important" pattern="\brevert\b.*" />
+    <filter name="Delete &amp; Revert">
+      <pattern index="2" />
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
