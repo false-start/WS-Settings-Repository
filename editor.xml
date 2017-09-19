@@ -7,7 +7,7 @@
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" pattern="\bremove\b.*" />
     <pattern icon="important" pattern="\brevert\b.*" />
-    <filter name="Delete &amp; Revert">
+    <filter name="Delete &amp; Remove">
       <pattern index="2" />
       <pattern index="3" />
     </filter>
