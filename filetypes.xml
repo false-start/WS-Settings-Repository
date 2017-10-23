@@ -19,6 +19,7 @@
       <mapping pattern="registrationTablet" type="PLAIN_TEXT" />
       <mapping pattern="fixpermissions" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="resource" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping pattern="nope" type="SCSS" />
