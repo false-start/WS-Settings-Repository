@@ -1,35 +1,36 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".zshenv" type="Bash" />
       <mapping pattern="Dockerfile_365" type="Dockerfile" />
-      <mapping pattern="Dockerfile-Dev" type="Dockerfile" />
       <mapping pattern="Dockerfile_365_base" type="Dockerfile" />
+      <mapping pattern="Dockerfile-Dev" type="Dockerfile" />
       <mapping ext="test" type="Dockerfile" />
       <mapping ext="build" type="Dockerfile" />
       <mapping ext="page" type="HTML" />
       <mapping ext="template" type="JSON" />
+      <mapping pattern="scss" type="PLAIN_TEXT" />
+      <mapping pattern="registrationTablet" type="PLAIN_TEXT" />
+      <mapping pattern=".secrets" type="PLAIN_TEXT" />
+      <mapping pattern="certindex" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="test 1" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
-      <mapping pattern="fixpermissions" type="PLAIN_TEXT" />
-      <mapping pattern="scss" type="PLAIN_TEXT" />
-      <mapping pattern="sdf" type="PLAIN_TEXT" />
-      <mapping pattern=".secrets" type="PLAIN_TEXT" />
-      <mapping pattern="test 1" type="PLAIN_TEXT" />
-      <mapping pattern="registrationTablet" type="PLAIN_TEXT" />
       <mapping pattern=".apiQA" type="PLAIN_TEXT" />
       <mapping pattern=".lgtm" type="PLAIN_TEXT" />
-      <mapping pattern="certindex" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Docker_365" type="PLAIN_TEXT" />
-      <mapping ext="resource" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="fixpermissions" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="resource" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="attr" type="PLAIN_TEXT" />
       <mapping pattern="nope" type="SCSS" />
       <mapping pattern="container-config" type="YAML" />
-      <mapping pattern=".zshenv" type="Bash" />
+      <mapping ext="tpl" type="YAML" />
     </extensionMap>
   </component>
 </application>
