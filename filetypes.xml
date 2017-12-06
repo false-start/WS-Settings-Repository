@@ -29,6 +29,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="attr" type="PLAIN_TEXT" />
       <mapping pattern="nope" type="SCSS" />
+      <mapping ext="xva" type="XML" />
       <mapping pattern="container-config" type="YAML" />
       <mapping ext="tpl" type="YAML" />
     </extensionMap>
