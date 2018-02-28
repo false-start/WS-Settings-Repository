@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".avt-credentials" type="YAML" />
       <mapping pattern=".avtrc" type="YAML" />
     </extensionMap>
   </component>
