@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="Y" type="PLAIN_TEXT" />
+      <mapping pattern="X" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
