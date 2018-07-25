@@ -8,6 +8,7 @@
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern="Test2" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping pattern=".avt-credentials" type="YAML" />
