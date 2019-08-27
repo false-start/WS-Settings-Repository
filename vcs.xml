@@ -202,6 +202,14 @@
           <option name="url" value="git@gitlab.spectrumxg.com:integration-architecture/account_and_support/figaro-spc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumxg.com:spectrum-toolbox-2/pde-cli.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.spectrumxg.com/spectrum-toolbox-2/pde-cli.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
