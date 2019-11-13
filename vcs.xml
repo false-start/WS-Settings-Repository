@@ -222,6 +222,10 @@
           <option name="url" value="git@gitlab.spectrumxg.com:spectrum-web/developer-enablement/dasp-helm-charts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumxg.com:spectrum-web/developer-enablement/helm-charts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
