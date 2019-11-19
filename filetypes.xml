@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
