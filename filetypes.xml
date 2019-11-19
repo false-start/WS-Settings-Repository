@@ -4,7 +4,7 @@
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern=".helmignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
