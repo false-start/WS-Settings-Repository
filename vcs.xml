@@ -242,9 +242,13 @@
           <option name="url" value="git@gitlab.spectrumxg.com:spectrum-web/integration-architecture/figaro-specmob.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumxg.com:spectrum-web/lab/spectrum-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter/lab" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
