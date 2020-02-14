@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Everything in .CI except baseline" />
     <option name="defaultScopeName" value="Everything in .CI except baseline" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Everything in .CI except baseline" />
   </component>
 </application>
