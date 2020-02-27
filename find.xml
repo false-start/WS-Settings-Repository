@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Test Files Only .CI exclude Setup &amp; Baseline" />
-    <option name="defaultScopeName" value="Test Files Only .CI exclude Setup &amp; Baseline" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Test Files Only .CI exclude Setup &amp; Baseline" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
