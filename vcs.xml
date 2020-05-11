@@ -258,6 +258,10 @@
           <option name="url" value="https://p2828553@stash.dev-charter.net/stash/scm/portals/ansible.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumxg.com:spectrumflow/sf-terraform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
