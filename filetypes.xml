@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="config" type="JSON" />
       <mapping pattern="Tiltfile" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
       <mapping pattern="caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
