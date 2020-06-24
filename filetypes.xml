@@ -5,6 +5,7 @@
       <mapping pattern="Tiltfile" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
