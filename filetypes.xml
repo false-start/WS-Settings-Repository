@@ -9,6 +9,7 @@
       <mapping pattern="caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
