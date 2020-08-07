@@ -38,6 +38,10 @@
           <option name="url" value="git@gitlab.spectrumflow.net:spectrum-web/integration-architecture/figaro-specmob.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumflow.net:spectrum-web/integration-architecture/figaro-specmob-mock-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
