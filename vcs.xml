@@ -26,6 +26,14 @@
           <option name="url" value="git@gitlab.spectrumflow.net:agency/enterprise/enterprise-account-domain-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.spectrumxg.com" />
+          <option name="userName" value="grant.burnesii@charter.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.spectrumflow.net" />
+          <option name="userName" value="grant.burnesii@charter.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
