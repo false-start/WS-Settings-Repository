@@ -58,6 +58,10 @@
           <option name="url" value="git@gitlab.spectrumflow.net:agency/enterprise/enterprise-acct-stmt-listener-domain-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumflow.net:spectrum-toolbox-2/pde-cluster-bootstrapping.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
