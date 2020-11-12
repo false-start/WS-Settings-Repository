@@ -10,7 +10,9 @@
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
+      <mapping pattern="db" type="PLAIN_TEXT" />
       <mapping pattern="Tiltfile" type="PLAIN_TEXT" />
+      <mapping ext="attr" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
