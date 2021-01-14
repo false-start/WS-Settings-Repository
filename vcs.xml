@@ -190,9 +190,13 @@
           <option name="url" value="git@gitlab.spectrumflow.net:enterprise/enterprise.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumflow.net:PDE/kube-janitor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code/Projects/Charter/PDE" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
