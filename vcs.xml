@@ -206,6 +206,10 @@
           <option name="url" value="git@gitlab.spectrumflow.net:spectrum-toolbox-2/helm-charts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spectrumflow.net:spectrum-web/portals-team/codeowners/voice/voice-domain-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Projects" />
