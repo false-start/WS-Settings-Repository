@@ -12,6 +12,7 @@
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern="db" type="PLAIN_TEXT" />
       <mapping pattern="Tiltfile" type="PLAIN_TEXT" />
+      <mapping pattern=".terraformignore" type="PLAIN_TEXT" />
       <mapping ext="attr" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
